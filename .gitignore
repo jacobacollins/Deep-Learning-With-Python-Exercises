@@ -1,3 +1,4 @@
 
 .ipynb_checkpoints/imdb_classifier-checkpoint.ipynb
 .ipynb_checkpoints/newswire_classification-checkpoint.ipynb
+*.ipynb
